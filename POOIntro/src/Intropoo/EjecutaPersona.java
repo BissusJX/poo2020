@@ -1,7 +1,6 @@
 package Intropoo;
 
 public class EjecutaPersona {
-
     public static void main (String[]args){
 
         Persona persona = new Persona("femenino","libre",20,"Diana");

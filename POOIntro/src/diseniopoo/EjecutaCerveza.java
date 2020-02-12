@@ -9,7 +9,7 @@ public class EjecutaCerveza {
         cerveza.setPrecio(2);
         cerveza.setTipo("Personal");
         cerveza.Unidades_vendidas(100);
-
++
         System.out.println(cerveza.getNombre());
         System.out.println("precio: "+cerveza.getPrecio());
         System.out.println("tipo: "+cerveza.getTipo());

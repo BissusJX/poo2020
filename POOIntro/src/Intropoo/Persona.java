@@ -18,10 +18,10 @@ public class Persona {
         this.genero = genero;
         this.nombre = nombre;
     }
-     public Persona (String nombre, int edad){
+    public Persona (String nombre, int edad){
         this.nombre = nombre;
         this.edad = edad;
-     }
+    }
     public String getGenero() {
         return genero;
     }
@@ -52,5 +52,6 @@ public class Persona {
 
     public void setNombre(String nombre) {
         this.nombre = nombre;
+
     }
 }
