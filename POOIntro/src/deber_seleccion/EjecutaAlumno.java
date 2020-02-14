@@ -17,7 +17,7 @@ public class EjecutaAlumno {
 
         Alumno alumno = new Alumno(nombre, calificacion1, calificacion2, calificacion3, calificacion4);
         String presentacion = alumno.validacion();
-        System.out.println(presentacion);
+System.out.println(presentacion);
 
     }
 }
